@@ -1,0 +1,172 @@
+/* 
+    Document   : font
+    Created on : 2012/05/26, 1:15:03
+    Author     : tomotomo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body {
+/*
+	font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+*/
+}
+
+/**
+ * base font size : 12px
+ */
+#container12 {
+    font-size: 12px;
+}
+/* for IE6 */
+* html #container12 {
+    font-size: 75%;
+}
+/* for IE7 */
+*:first-child+html #container12 {
+    font-size: 75%;
+}
+#container12 .font10 {font-size: 83.5%;}
+#container12 .font11 {font-size: 92%;}
+#container12 .font12 {font-size: 100%;}
+#container12 .font13 {font-size: 108.5%;}
+#container12 .font14 {font-size: 117%;}
+#container12 .font15 {font-size: 125%;}
+#container12 .font16 {font-size: 134%;}
+#container12 .font17 {font-size: 142%;}
+#container12 .font18 {font-size: 150%;}
+#container12 .font19 {font-size: 158.5%;}
+#container12 .font20 {font-size: 166.5%;}
+#container12 .font21 {font-size: 175%;}
+#container12 .font22 {font-size: 184%;}
+#container12 .font23 {font-size: 192%;}
+#container12 .font24 {font-size: 200%;}
+#container12 .font25 {font-size: 209%;}
+#container12 .font26 {font-size: 217%;}
+
+/**
+ * base font size : 13px
+ */
+#container13 {
+    font-size: 13px;
+}
+/* for IE6 */
+* html #container13 {
+    font-size: 82%;
+}
+/* for IE7 */
+*:first-child+html #container13 {
+    font-size: 82%;
+}
+#container13 .font10 {font-size: 77%;}
+#container13 .font11 {font-size: 85%;}
+#container13 .font12 {font-size: 93%;}
+#container13 .font13 {font-size: 100%;}
+#container13 .font14 {font-size: 108%;}
+#container13 .font15 {font-size: 115.5%;}
+#container13 .font16 {font-size: 124%;}
+#container13 .font17 {font-size: 131%;}
+#container13 .font18 {font-size: 139%;}
+#container13 .font19 {font-size: 146.5%;}
+#container13 .font20 {font-size: 154%;}
+#container13 .font21 {font-size: 162%;}
+#container13 .font22 {font-size: 170%;}
+#container13 .font23 {font-size: 177%;}
+#container13 .font24 {font-size: 184.5%;}
+#container13 .font25 {font-size: 193%;}
+#container13 .font26 {font-size: 200%;}
+
+/**
+ * base font size : 14px
+ */
+#container14 {
+    font-size: 14px;
+}
+/* for IE6 */
+* html #container14 {
+    font-size: 88%;
+}
+/* for IE7 */
+*:first-child+html #container14 {
+    font-size: 88%;
+}
+#container14 .font10 {font-size: 71.5%;}
+#container14 .font11 {font-size: 78.5%;}
+#container14 .font12 {font-size: 86%;}
+#container14 .font13 {font-size: 93%;}
+#container14 .font14 {font-size: 100%;}
+#container14 .font15 {font-size: 107.5%;}
+#container14 .font16 {font-size: 115%;}
+#container14 .font17 {font-size: 121.5%;}
+#container14 .font18 {font-size: 129%;}
+#container14 .font19 {font-size: 136%;}
+#container14 .font20 {font-size: 142.5%;}
+#container14 .font21 {font-size: 150%;}
+#container14 .font22 {font-size: 158%;}
+#container14 .font23 {font-size: 165%;}
+#container14 .font24 {font-size: 171.5%;}
+#container14 .font25 {font-size: 179%;}
+#container14 .font26 {font-size: 186%;}
+
+/**
+ * base font size : 15px
+ */
+#container15 {
+    font-size: 15px;
+}
+/* for IE6 */
+* html #container15 {
+    font-size: 94%;
+}
+/* for IE7 */
+*:first-child+html #container15 {
+    font-size: 94%;
+}
+#container15 .font10 {font-size: 67%;}
+#container15 .font11 {font-size: 73.5%;}
+#container15 .font12 {font-size: 80%;}
+#container15 .font13 {font-size: 87%;}
+#container15 .font14 {font-size: 94%;}
+#container15 .font15 {font-size: 100%;}
+#container15 .font16 {font-size: 107%;}
+#container15 .font17 {font-size: 113.5%;}
+#container15 .font18 {font-size: 120%;}
+#container15 .font19 {font-size: 127%;}
+#container15 .font20 {font-size: 134%;}
+#container15 .font21 {font-size: 140%;}
+#container15 .font22 {font-size: 147%;}
+#container15 .font23 {font-size: 154%;}
+#container15 .font24 {font-size: 160%;}
+#container15 .font25 {font-size: 167%;}
+#container15 .font26 {font-size: 174%;}
+
+/**
+ * base font size : 16px
+ */
+#container16 {
+    font-size: 16px;
+}
+/* for IE6 */
+* html #container16 {
+    font-size: 100%;
+}
+/* for IE7 */
+*:first-child+html #container16 {
+    font-size: 100%;
+}
+#container16 .font10 {font-size: 63%;}
+#container16 .font11 {font-size: 69%;}
+#container16 .font12 {font-size: 75%;}
+#container16 .font13 {font-size: 81.5%;}
+#container16 .font14 {font-size: 88%;}
+#container16 .font15 {font-size: 94%;}
+#container16 .font16 {font-size: 100%;}
+#container16 .font17 {font-size: 106.3%;}
+#container16 .font18 {font-size: 112.5%;}
+#container16 .font19 {font-size: 119%;}
+#container16 .font20 {font-size: 125%;}
+#container16 .font21 {font-size: 131.3%;}
+#container16 .font22 {font-size: 137.5%;}
+#container16 .font23 {font-size: 144%;}
+#container16 .font24 {font-size: 150%;}
+#container16 .font25 {font-size: 156.3%;}
+#container16 .font26 {font-size: 162.5%;}
